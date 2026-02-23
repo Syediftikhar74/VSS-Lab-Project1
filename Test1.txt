@@ -4,4 +4,4 @@ This is Lab Project
 Will be submitted on 28 February
 Facing some technical difficulties
 
-Will merge conflict happen?
+this line is from feature2 branch 
