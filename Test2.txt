@@ -1,1 +1,2 @@
+this line is from feature2
 this line is from branch feature/login
