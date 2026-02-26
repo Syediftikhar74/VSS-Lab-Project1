@@ -1,0 +1,11 @@
+git clone
+
+git branch
+
+git checkout
+
+git merge
+
+git revert
+
+git reset
