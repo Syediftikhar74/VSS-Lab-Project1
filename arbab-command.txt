@@ -9,3 +9,4 @@ git merge
 git revert
 
 git reset
+commands for cloning merging reverting and all
